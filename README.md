@@ -1,5 +1,5 @@
 # 🚀 NightWalkAX | S&D Softworks  
-
+![Night Coding](https://media.giphy.com/media/3o7aCVL7d1l8kDvT5e/giphy.gif)
 ## 👋 Bienvenido a mi mundo digital  
 
 ¡Hola! Soy **Jose Yoel**, un programador autodidacta apasionado por el desarrollo backend, la inteligencia artificial, el aprendizaje automático, las aplicaciones y los videojuegos. Actualmente, estoy en constante aprendizaje y trabajando en mi proyecto personal **AI-PROJECT**.  
