@@ -6,7 +6,7 @@
 
 ## 👋 Bienvenido a mi mundo digital  
 
-¡Hola! Soy **Jose Yoel**, un programador autodidacta apasionado por el desarrollo backend, la inteligencia artificial, el aprendizaje automático, las aplicaciones y los videojuegos. Actualmente, estoy en constante aprendizaje y trabajando en mi proyecto personal **AI-PROJECT**.  
+¡Hola! Soy **Jose Yoel**, un programador autodidacta apasionado por el desarrollo de APIs REST, las aplicaciones web y los videojuegos. Actualmente, estoy en constante aprendizaje y trabajando en mi proyecto personal **UNIVERSAL AUTH SYSTEM**.  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -16,13 +16,13 @@
 ## 🛠️ Tech Stack  
 
 ### ⚡ Lenguajes y Tecnologías  
-- **Intermedio-Avanzado:** Python, HTML  
-- **Básico:** Java, C++, CSS, Solidity  
+- **Intermedio-Avanzado:** Python, HTML
+- **Básico:** Java, C++, CSS, Javascript 
 
 ### ⚙️ Herramientas y Plataformas  
 - Git & GitHub  
-- Desarrollo de servidores, IA y juegos  
-- Creación de aplicaciones de escritorio y móviles  
+- Desarrollo de servidores, paginas web y juegos  
+- Creación de aplicaciones de escritorio y web  
 
 ---
 
@@ -32,20 +32,18 @@ S&D Softworks es mi equipo de desarrollo, enfocado en construir soluciones innov
 ---
 
 ## 🎯 Objetivos  
-- 🏗️ Backend avanzado para servidores y plataformas  
-- 🧠 Modelos de Inteligencia Artificial y Aprendizaje Automático  
-- 🎮 Desarrollo de videojuegos y aplicaciones  
+- 🏗️ Backend avanzado para servidores y plataformas   
+- 🎮 Desarrollo de videojuegos y aplicaciones de escritorio
 
 ---
 
 ## 🚀 Proyectos Destacados  
-🔹 **AI-PROJECT:** Plataforma para entrenar modelos de IA y comercializarlos como NFTs.  
-
+🔹 **Universal Auth System:** Sistema de autenticacion universal que puede ser utilizado para cualquier tipo de proyecto, desde IA hasta videojuegos
 ---
 
 ## 📫 Conéctate conmigo  
 🔗 GitHub: [NightWalkAX](https://github.com/NightWalkAX)  
-📧 Contacto: *(pendiente, si deseas agregar uno)*  
+📧 Contacto: *nightwalkax@gmail.com*  
 
 ---
 
