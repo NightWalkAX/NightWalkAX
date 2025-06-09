@@ -38,7 +38,8 @@ S&D Softworks es mi equipo de desarrollo, enfocado en construir soluciones innov
 ---
 
 ## 🚀 Proyectos Destacados  
-🔹 **Universal Auth System:** Sistema de autenticacion universal que puede ser utilizado para cualquier tipo de proyecto, desde IA hasta videojuegos
+🔹 **Universal Auth System:** Sistema de autenticacion universal que puede ser utilizado para cualquier fin, desde una pagina web sencilla hasta inteligencia artificial o videojuegos.
+
 ---
 
 ## 📫 Conéctate conmigo  
