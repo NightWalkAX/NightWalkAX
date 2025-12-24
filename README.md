@@ -26,21 +26,10 @@
 
 ---
 
-## 📌 Sobre S&D Softworks  
-S&D Softworks es mi equipo de desarrollo, enfocado en construir soluciones innovadoras en software y tecnología.  
-
----
-
 ## 🎯 Objetivos  
 - 🏗️ Backend avanzado para servidores y plataformas   
-- 🎮 Desarrollo de videojuegos y aplicaciones de escritorio
+- 🎮 Desarrollo de web y aplicaciones de escritorio
 
----
-
-## 🚀 Proyectos Destacados  
-🔹 **Universal Auth System:** Sistema de autenticacion universal que puede ser utilizado para cualquier fin, desde una pagina web sencilla hasta inteligencia artificial o videojuegos.
-
----
 
 ## 📫 Conéctate conmigo  
 🔗 GitHub: [NightWalkAX](https://github.com/NightWalkAX)  
