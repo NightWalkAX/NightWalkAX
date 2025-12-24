@@ -33,7 +33,7 @@
 
 ## 📫 Conéctate conmigo  
 🔗 GitHub: [NightWalkAX](https://github.com/NightWalkAX)  
-📧 Contacto: *nightwalkax@gmail.com*  
+📧 Contacto: *jymendev@gmail.com*  
 
 ---
 
