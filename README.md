@@ -2,11 +2,10 @@
 
 ---
 
-# 🚀 NightWalkAX | S&D Softworks  
-
+# 🚀 NightWalkAX | Solo Tech Solutions
 ## 👋 Bienvenido a mi mundo digital  
 
-¡Hola! Soy **Jose Yoel**, un programador autodidacta apasionado por el desarrollo de APIs REST, las aplicaciones web y los videojuegos. Actualmente, estoy en constante aprendizaje y trabajando en mi proyecto personal **UNIVERSAL AUTH SYSTEM**.  
+¡Hola! Soy **Jose Yoel**, un programador autodidacta apasionado por el desarrollo de APIs REST, las aplicaciones web y Dev Operations. Actualmente estoy liderando mi negocio como Managed Service Provider en Guyana.  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -20,15 +19,26 @@
 - **Básico:** Java, C++, CSS, Javascript 
 
 ### ⚙️ Herramientas y Plataformas  
-- Git & GitHub  
-- Desarrollo de servidores, paginas web y juegos  
-- Creación de aplicaciones de escritorio y web  
+- Git & GitHub
+- Github Actions (CI/CD)
+- Cloudflare
+- Supabase
+- Amazon Web Services
+- Google Cloud Console
+- Resend
+- Frappe Framework
+- N8N
+- Render
+- Vercel
+- Python Anywhere
+- OpenClaw
+- Claude
+- Gemini
 
 ---
 
-## 🎯 Objetivos  
-- 🏗️ Backend avanzado para servidores y plataformas   
-- 🎮 Desarrollo de web y aplicaciones de escritorio
+## 🎯 Objetivos 
+- Dejar mi huella en el mundo, ya me demostre que puedo lograr y resolver lo que me proponga.
 
 
 ## 📫 Conéctate conmigo  
@@ -38,4 +48,4 @@
 ---
 
 *"El código es poesía, la tecnología es arte."*  
-✨ _NightWalkAX | S&D Softworks_ ✨  
+✨ _NightWalkAX | Solo Tech Solutions_ ✨  
